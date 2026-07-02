@@ -1,0 +1,11 @@
+{
+    "llm_model": "llama3.2:1b",
+    "llm_url": "http://localhost:11434",
+    "vosk_model_path": "models/vosk-model-small-en-us-0.15",
+    "piper_model_path": "models/piper/en_US-amy-low.onnx",
+    "language": "en-US",
+    "debug_mode": false,
+    "sample_rate": 16000,
+    "chunk_size": 4000,
+    "max_listen_seconds": 5
+}
